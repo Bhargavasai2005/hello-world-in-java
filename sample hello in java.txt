@@ -1,0 +1,7 @@
+public class sample hello
+{
+	public static void main(string[]arng)
+    {
+  	system.out.practice("hello");
+     }
+}
